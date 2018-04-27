@@ -1,0 +1,27 @@
+REFLECT
+Doing this workshop, I learned how to transfer files to my matrix using WinSCP, what's required for a C-program to work, and some formatting for C. For my program to work, there are 3 lines I need to write before I start:
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+int main(void) {}
+
+I also learned that the curly brackets on the third line are to never touch what is written within them, but for the first bracket it's optional to leave it after "int main(void)" or give it a separate line.
+
+-------------------------------------------------------------
+QUIZ CORRECTIONS
+IPC 144 SQQ, Quiz 1 V1 Reflection		Tracy Nguyen
+						127270171
+
+Q3 Mistake: \a
+   Answer:  \t
+
+Q5 Mistake: print double salary
+   Answer:  printf ("%f", salary);
+
+Q6 Mistake: "A"
+   Answer:  A false value is C is 0
+
+Q7 Mistake: [const] 25
+   Answer:  20
+
+Q8 Mistake: 5.92
+   Answer:  5
