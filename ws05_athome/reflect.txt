@@ -1,0 +1,11 @@
+Reflection					Tracy Nguyen
+Lab 5						127270171
+
+
+Q1 It shouldn't return a reference because when leaving that function, the object returned is out of scope so it no longer exists.
+
+Q2 In this module, the temporary objects are the ones created under the operator functions
+
+Q3 Within my operator functions, I called any existing ones where appropriate
+
+Q4 I'm more familiar with how operator functions work

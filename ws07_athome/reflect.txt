@@ -1,0 +1,11 @@
+Reflection Lab 7						Tracy Nguyen
+								127270171
+								OOP244 - C
+
+Q1. No because it's the base class.
+
+Q2. Yea because it's a class derived from the Hero class.
+
+Q3. It printed "Ancient Battle!" 
+
+Q4. It's true that both are valid. The operator requires a Hero object on both sides. For the second definition, the bracketed pairs will return one Hero object so the operator between the brackets will have one Hero object on both sides.

@@ -1,0 +1,12 @@
+Reflect Text						Tracy Nguyen
+							127270171
+
+Q1. A namespace is a defined space under code where the variables and functions declared are hidden to the rest of the code unless explicitly revealed.
+
+Q2. Header files are needed for function and class definitions. It can be repeatedly included rather then retyped which can also cut down time for debugging.
+
+Q3. They're not compiled because when they're included, the code is being copied and the files containing those copies are already being compiled.
+
+Q4. There would be a duplication in code which can be confusing and would take more time to compile.
+
+Q5. I gained a better understanding of how "namespace" and header files work.

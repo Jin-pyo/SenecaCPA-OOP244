@@ -1,0 +1,13 @@
+Reflection					Tracy Nguyen
+Lab 4 						127270171
+
+
+Q1 A safe empty state is when a variable is given a meaningless value that would not produce any meaningful results
+
+Q2 I've minimized duplication by using constructors
+
+Q3 It can access it because the object is being passed by reference
+
+Q4 Following the strncpy function, a statement adding a null to the string is needed like so: arrName[11] = '\0'
+
+Q5 I have a better understanding of how constructors work and why it's used

@@ -1,0 +1,8 @@
+Reflection					Tracy Nguyen
+Workshop 3					127270171
+
+Q1. In a C-style character string for the family and given name, there are 41 elements. 40 for the characters of the name and one for the null character.
+
+Q2. In C++, this is called function overloading.
+
+Q3. Doing this workshop, I gained a better understanding of how to handle classes (Privacy, accessing members, etc.)

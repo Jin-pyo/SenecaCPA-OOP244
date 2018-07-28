@@ -1,0 +1,6 @@
+﻿  ErrorState.cpp
+c:\users\traci\onedrive\seneca@york\repos - seneca@york\ms02\errorstate.cpp(26): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\users\traci\onedrive\seneca@york\repos - seneca@york\ms02\errorstate.cpp(68): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+  ms02.vcxproj -> C:\Users\traci\OneDrive\Seneca@York\Repos - Seneca@York\ms02\Debug\ms02.exe

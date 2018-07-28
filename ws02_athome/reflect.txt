@@ -1,0 +1,10 @@
+Reflection					Tracy Nguyen
+Section C					127270171
+
+Q1. Because the space has already been allocated so instead the contents of the array can move a bigger one.
+
+Q2. In this case, the array of structs that was created is being allocated which contains the kingdom names (array of characters)
+
+Q3. It differentiates them by its parameters
+
+Q4. I learned how to overload functions and increase an array's size

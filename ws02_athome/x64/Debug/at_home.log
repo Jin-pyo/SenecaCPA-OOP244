@@ -1,0 +1,4 @@
+﻿  w2_at_home.cpp
+c:\users\traci\onedrive\repos\oop\ws02_athome\w2_at_home.cpp(61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+  at_home.vcxproj -> C:\Users\traci\OneDrive\Repos\OOP\ws02_athome\x64\Debug\at_home.exe

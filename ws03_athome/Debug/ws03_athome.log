@@ -1,0 +1,11 @@
+﻿  CRA_Account.cpp
+c:\users\traci\onedrive\repos\oop\ws03_athome\cra_account.cpp(73): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\users\traci\onedrive\repos\oop\ws03_athome\cra_account.cpp(74): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\users\traci\onedrive\repos\oop\ws03_athome\cra_account.cpp(89): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\users\traci\onedrive\repos\oop\ws03_athome\cra_account.cpp(90): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\users\traci\onedrive\repos\oop\ws03_athome\cra_account.cpp(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ws03_athome.vcxproj -> C:\Users\traci\OneDrive\Repos\OOP\ws03_athome\Debug\ws03_athome.exe

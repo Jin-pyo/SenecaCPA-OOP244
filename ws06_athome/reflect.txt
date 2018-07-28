@@ -1,0 +1,8 @@
+Lab 6 Reflection					Tracy Nguyen
+							127270171
+
+Q1. We avoid self assignment because within the member operator, code can be written to improperly alter the original values since it meant to be used between the same objects. An example would be deallocating an array under the current object in order to assign the values of the array under the object parameter.
+
+Q2. Where applicable I called other member functions
+
+Q3. I learned how to duplicate existing objects
