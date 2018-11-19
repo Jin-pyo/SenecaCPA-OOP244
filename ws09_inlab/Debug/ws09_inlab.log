@@ -1,0 +1,15 @@
+﻿  Data.cpp
+c:\users\traci\onedrive\seneca@york\repos - seneca@york\ws09_inlab\data.h(57): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  c:\users\traci\onedrive\seneca@york\repos - seneca@york\ws09_inlab\data.h(72): note: see reference to function template instantiation 'T sict::sum<T>(const T *,int)' being compiled
+          with
+          [
+              T=int
+          ]
+  c:\users\traci\onedrive\seneca@york\repos - seneca@york\ws09_inlab\data.cpp(35): note: see reference to function template instantiation 'double sict::avg<int>(const T *,int)' being compiled
+          with
+          [
+              T=int
+          ]
+  ws9_lab.cpp
+  Generating Code...
+  ws09_inlab.vcxproj -> C:\Users\traci\OneDrive\Seneca@York\Repos - Seneca@York\ws09_inlab\Debug\ws09_inlab.exe

@@ -1,0 +1,10 @@
+Reflection Lab 9					Tracy Nguyen
+							127270171
+
+Q1. Moving all of the functions will cause an error as the main CPP file calls some of those functions but doesn't have access to it. It'd compile if the functions were under the header file since the main CPP file does have access to it.
+
+Q2. It doesn't work. The placement doesn't matter because it's called in the Data.cpp file where it doesn't "see" the templated function under ws9_lab.cpp
+
+Q3. This could've been done by overloading the functions but there'd much repetition that could be avoided with templated functions. This would descrease compile-time. 
+
+Q4. The following are equivalent.
