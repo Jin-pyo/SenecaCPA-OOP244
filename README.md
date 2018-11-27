@@ -9,4 +9,4 @@ The milestones are a breakdown of a project. These are assigned within the last 
 # Other things to note
 * Depending on the workshop or milestone, header and implementation files may have already been provided by the professor. Oftentimes it is the header files and main cpp file that are given. **To see if it has been provided, check the PDF instructions or what files are available for the given lab under the *OOP-Workshops-master* folder.**
 
-* All work for this course is submitted via PuTTy. The files are transferred on WinSCP then ran on the terminal. All code must match the exact output as seen in the instructions. That means every line, character, space, newline, input is identical to the output of the professor's code.
+* All work for this course is done on Visual Studio and submitted via PuTTy. The files are transferred on WinSCP then ran on the terminal. All code must match the exact output as seen in the instructions. That means every line, character, space, newline, input is identical to the output of the professor's code.
